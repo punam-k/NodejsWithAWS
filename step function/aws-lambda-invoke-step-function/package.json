@@ -4,7 +4,7 @@
   "dependencies": {
     "async": "^1.4.2",
     "bunyan": "^1.8.7",
-    "aws-sdk": "^2.3.11"
+    "aws-sdk": "^2.814.0"
   },
   "devDependencies": {
     "node-lambda": "^0.10.0"
