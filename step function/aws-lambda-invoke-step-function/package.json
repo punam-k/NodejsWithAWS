@@ -7,7 +7,7 @@
     "aws-sdk": "^2.3.11"
   },
   "devDependencies": {
-    "node-lambda": "^0.10.0"
+    "node-lambda": "^1.2.0"
   },
   "scripts": {
     "setup": "node-lambda setup",
